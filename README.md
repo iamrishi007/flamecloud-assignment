@@ -59,4 +59,7 @@ It was built as a **24-hour take-home assignment** to evaluate:
 ```bash
 cd flamecloud-server
 npm install
+<<<<<<< HEAD
 ----------------------------------------
+=======
+>>>>>>> e6ca7bbaa53298f6a16ab4df476fb4145dd6294c
